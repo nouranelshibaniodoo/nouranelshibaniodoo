@@ -26,12 +26,6 @@ I deploy, run and maintain **Odoo** on Linux servers, and I share simple explain
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-## Featured
-<!-- Pin your best 4–6 repositories on your profile, then list 2–3 here with one line each. -->
-- 🔹 `repo-name` – what it does in one line
-
-## Content
-I write short explainers on running Odoo and servers (LinkedIn, Facebook, Instagram, WhatsApp Channel).
 
 ## Contact
 Reach me on [LinkedIn](https://www.linkedin.com/in/nouran-elshibani).
