@@ -27,4 +27,4 @@ I deploy, run and maintain **Odoo** on Linux servers, and I share simple explain
 
 
 ## Contact
-Reach me on [LinkedIn](https://www.linkedin.com/in/nouran-elshibani) [Whatsapp](https://wa.me/message/RU7QNHOAQA3XE1).
+Reach me on [LinkedIn](https://www.linkedin.com/in/nouran-elshibani),   [Whatsapp](https://wa.me/message/RU7QNHOAQA3XE1).
