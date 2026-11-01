@@ -6,7 +6,6 @@
 </p>
 
 I deploy, run and maintain **Odoo** on Linux servers, and I share simple explainers on how it all works behind the scenes (servers, databases, backups, updates, performance).
-أشتغل على Odoo والسيرفرات ولينكس، وأنشر شروحات مبسطة عن التشغيل والنسخ الاحتياطي والتحديثات.
 
 ## What I do
 - **Odoo** – deployment, module maintenance, basic customization (Python / XML)
